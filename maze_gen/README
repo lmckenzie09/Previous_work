@@ -1,0 +1,5 @@
+I wrote this generator as a way to test a maze solver the IEEE club was working on for an
+autonomous robot maze solving competition (micromouse competition).
+
+Essentially, every time you run the program it spits out a new random maze with the
+possibility of there being cycles (random breaks) in the maze.

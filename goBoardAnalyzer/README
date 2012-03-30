@@ -1,0 +1,6 @@
+This project was at the beginning of my ece 275 class.
+We were tasked with correctly analyzing different situations on a go board. We had to
+correctly display the board, and show whether there any of the three formations we were
+looking for (eyes, twoeyes, and eyespaces) in regards to the black pieces.
+
+This program requires there be an input file that gives the program the location of all of the pieces on the board.

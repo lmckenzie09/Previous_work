@@ -1,0 +1,41 @@
+W A 7
+
+W B 7
+
+W B 6
+
+W B 5
+
+W C 8
+
+B C 7
+
+B C 6
+
+B C 5
+
+W D 8
+
+B D 7
+
+B D 5
+
+W E 8
+
+B E 7
+
+B E 6
+
+B E 5
+
+B H 4
+
+B H 3
+
+B H 2
+
+B H 1
+
+B I 4
+
+B I 2

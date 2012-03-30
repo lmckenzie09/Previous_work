@@ -1,0 +1,6 @@
+This was my final ece175 project.
+I was part of a group of four making this simple music database. 
+I was in charge of adding and deleting elements from the database and a large part of 
+the debugging process.
+
+To use you must have an initial file for the database to pull songs from. After that, you use a simple interface based off of user inputs.
